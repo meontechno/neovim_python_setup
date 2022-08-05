@@ -1,4 +1,4 @@
-# Neovim setup for python developers (Linux, python 3.6+)
+# Neovim setup for python developers (Linux, python 3.6+) :sunglasses:
 
 
 ## Install Neovim
@@ -145,3 +145,6 @@ gc        -->       Comment/uncomment the entire block (Visual block mode)
 
 ## Screenshot
 ![Neovim look after setup](/hello_world_py.png)
+
+
+Happy coding!!:fire: :rocket:
