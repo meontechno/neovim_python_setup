@@ -127,7 +127,7 @@ nmap <C-w> :bd<CR>
 ```
 
 
-2. Open `nvim` and install plugins with the commands -
+2. Open `nvim` and install plugins with the below command -
 ```
 :PlugInstall
 ```
