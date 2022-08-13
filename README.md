@@ -24,10 +24,7 @@ touch ~/.config/nvim/init.vim
 ## Prepare python environment
 In order for auto-complete, syntax check and formatter features to work for python, you need to install the below packages -
 ```
-pip install pynvim
-pip install jedi
-pip install flake8
-pip install autopep8
+pip install pynvim jedi flake8 autopep8
 ```
 In case if you are using venv or anaconda, install all these packages in all your envs.
 
